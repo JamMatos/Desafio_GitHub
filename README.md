@@ -1,2 +1,2 @@
 # Desafio_GitHub
-Repositorio relacionado a bootcamp de Java DIO
+Repositório relacionado ao bootcamp de Java DIO
